@@ -1,0 +1,8 @@
+{
+  "name": "typescript-fkkh6c",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "5.5.6"
+  }
+}
